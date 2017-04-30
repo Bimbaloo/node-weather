@@ -1,0 +1,17 @@
+{
+  "name": "node-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "天气工具"
+  },
+  "bin": {
+    "tianqi": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.15.3"
+  },
+  "author": "mazao",
+  "license": "ISC"
+}
